@@ -7,7 +7,11 @@ This application has original source.
 http://stackoverflow.com/questions/6656651/difference-between-android-dimension-pt-and-dp/
 
 Androidのサイズ単位系がどう見えるかはデバイスによって異なるので、
-チェックしたいときがあります。
+チェックしたいときがあります。このアプリケーションはその早見表です。
+
+元ネタは
+http://stackoverflow.com/questions/6656651/difference-between-android-dimension-pt-and-dp/
+です。
 
 ↓はGalaxy S2での見え方です。別の端末では比率が違って見えると思います。
 
