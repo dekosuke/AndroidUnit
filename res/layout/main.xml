@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent" android:orientation="vertical">
+    <TextView android:id="@+id/textView1" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="22sp" android:padding="5sp" android:text="160dp"></TextView>
+    <View android:id="@+id/view1" android:layout_height="20dip" android:layout_width="160dp" android:layout_marginLeft="20sp" android:background="#FF22FF22"></View>
+    <TextView android:id="@+id/textView2" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="22sp" android:padding="5sp" android:text="72pt"></TextView>
+    <View android:id="@+id/view2" android:layout_height="20dip" android:layout_width="72pt" android:layout_marginLeft="20sp" android:background="#FF22FF22"></View>
+    <TextView android:id="@+id/textView3" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="22sp" android:padding="5sp" android:text="1in"></TextView>
+    <View android:id="@+id/View01" android:layout_height="20dip" android:layout_width="1in" android:layout_marginLeft="20sp" android:background="#FF22FF22"></View>
+    <TextView android:layout_width="wrap_content" android:textSize="22sp" android:layout_height="wrap_content" android:text="160sp" android:padding="5sp" android:id="@+id/TextView01"></TextView>
+    <View android:layout_marginLeft="20sp" android:layout_width="160sp" android:id="@+id/View04" android:background="#FF22FF22" android:layout_height="20dip"></View>
+    <TextView android:layout_width="wrap_content" android:textSize="22sp" android:layout_height="wrap_content" android:padding="5sp" android:id="@+id/TextView02" android:text="160px"></TextView>
+    <View android:layout_marginLeft="20sp" android:id="@+id/View03" android:background="#FF22FF22" android:layout_height="20dip" android:layout_width="160px"></View>
+    <TextView android:id="@+id/textView4" android:layout_width="wrap_content" android:layout_height="wrap_content" android:textSize="22sp" android:padding="5sp" android:text="25.4mm"></TextView>
+    <View android:id="@+id/View02" android:layout_height="20dip" android:layout_marginLeft="20sp" android:background="#FF22FF22" android:layout_width="25.4mm"></View>
+</LinearLayout>
